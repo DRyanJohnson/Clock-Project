@@ -1,5 +1,5 @@
 Clock
-A Java-based implementation of a 24-hour digital clock that tracks hours, minutes, and seconds. Developed as an assignment for TCSS 305 (Fall 2026).
+A Java-based implementation of a 24-hour digital clock that tracks hours, minutes, and seconds. Developed as an assignment for fall quarter 2026.
 
 Features
 Time Tracking: Accurately maintains hours (0–23), minutes (0–59), and seconds (0–59).
