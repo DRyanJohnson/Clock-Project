@@ -1,0 +1,32 @@
+Assignment name: Assignment 1
+TCSS 305 C: Programming Practicum, Autumn quarter 2026
+
+Name: Dakota Johnson
+UWNetID: Dakotj3
+
+
+Assignment Overview:
+The purpose of this assignment was to design and implement a java program
+that modeled a digital clock and a manager for clock called clockshop.This in turn required building clock class
+from scratch with parameters, and implementing comparable and equals. This also involved building clockshop class to
+handle scanners, printwriting.
+
+Technical Impression:
+Getting back into programming in java with this project was a fun challenge for me and had its moment.
+I did this assignment slow taking my time and tested clock before moving onto clockshop.
+I did run into a small roadblock when revisiting scanner and did not have much experience with printwriter.
+I did have to look up some syntax examples with google but once I got the string formatted correctly
+everything came together.
+
+Unresolved problems in my submission:
+None as far as I am aware.
+
+Citations and Collaborations:
+I looked up documentation and examples online to figure out how to use java.io.printwriter for writing data to files.
+
+Extra Credit:
+Did not attempt
+
+Questions:
+none
+
